@@ -1,0 +1,19 @@
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: var(--first-text-color);
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
